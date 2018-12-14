@@ -1,11 +1,11 @@
 # Site settings
-title: 40614061 blog
+title: 4061实验室Blog
 email: 
 description: "A Collection of 61#4061 Lab."
 baseurl: ""
 url: "http://40614061.github.io"
 #twitter_username: 
-github_username:  40614061
+github_username: 40614061
 
 # Build settings
 markdown: Typora
