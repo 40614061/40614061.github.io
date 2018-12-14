@@ -1,14 +1,14 @@
 # Site settings
-title: Andrej Karpathy blog
+title: 40614061 blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "A Collection of 61#4061 Lab."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://40614061.github.io"
+#twitter_username: 
+github_username:  40614061
 
 # Build settings
-markdown: kramdown
+markdown: Typora
 permalink: pretty
 
 highlighter: rouge
