@@ -8,7 +8,7 @@ url: "http://40614061.github.io"
 github_username: 40614061
 
 # Build settings
-markdown: Typora
+markdown: kramdown
 permalink: pretty
 
 highlighter: rouge
